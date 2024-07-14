@@ -18,7 +18,7 @@ function ProductFeed({ products }) {
             />
           ))}
         <img
-          className="md:col-span-full"
+          className="md:col-span-full "
           src="/static/images/banner-col.jpg"
           alt=""
         />

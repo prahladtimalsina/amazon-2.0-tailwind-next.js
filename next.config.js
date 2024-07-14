@@ -9,7 +9,7 @@ module.exports = {
     FB_APP_ID: "415724632408061",
   },
   images: {
-    domains: ["localhost", "fakestoreapi.com"],
+    domains: ["localhost", "fakestoreapi.com", "links.papareact.com"],
   },
   env: {
     stripe_public_key: `${process.env.STRIPE_PUBLIC_KEY}`,
